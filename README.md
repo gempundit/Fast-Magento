@@ -7,5 +7,6 @@ Currently 2 supportive version will be developed.
 
 1. Unified SQL
 2. Presentation Layer
+3. Analytics Frameworks
 
 
